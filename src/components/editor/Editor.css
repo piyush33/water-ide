@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+}
+
+.editorContainer {
+    width: 50%;
+}
+
+.title {
+    margin: 10px;
+    padding: 7px 40px;
+    background-color: rgb(117, 117, 137);
+    color: #fff;
+    border: none;
+}
